@@ -16,5 +16,22 @@ namespace FileMover
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Exit_Button_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Manual_Button_Click(object sender, EventArgs e)
+        {
+            RunManualForm ManualForm = new RunManualForm();
+            ManualForm.Show();
+            this.Hide();
+        }
     }
 }

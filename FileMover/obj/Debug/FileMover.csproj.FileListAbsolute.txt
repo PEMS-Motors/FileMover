@@ -1,9 +1,0 @@
-C:\Users\travis.finch\source\repos\FileMover\FileMover\bin\Debug\FileMover.exe.config
-C:\Users\travis.finch\source\repos\FileMover\FileMover\bin\Debug\FileMover.exe
-C:\Users\travis.finch\source\repos\FileMover\FileMover\bin\Debug\FileMover.pdb
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.csprojAssemblyReference.cache
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.Properties.Resources.resources
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.csproj.GenerateResource.cache
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.csproj.CoreCompileInputs.cache
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.exe
-C:\Users\travis.finch\source\repos\FileMover\FileMover\obj\Debug\FileMover.pdb
