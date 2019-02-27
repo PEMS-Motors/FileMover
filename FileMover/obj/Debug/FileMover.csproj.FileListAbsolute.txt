@@ -1,0 +1,11 @@
+C:\FileMover\FileMover\FileMover\bin\Debug\FileMover.exe.config
+C:\FileMover\FileMover\FileMover\bin\Debug\FileMover.exe
+C:\FileMover\FileMover\FileMover\bin\Debug\FileMover.pdb
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.csprojResolveAssemblyReference.cache
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.MainMenu.resources
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.Properties.Resources.resources
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.RunManualForm.resources
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.csproj.GenerateResource.Cache
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.csproj.CoreCompileInputs.cache
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.exe
+C:\FileMover\FileMover\FileMover\obj\Debug\FileMover.pdb
